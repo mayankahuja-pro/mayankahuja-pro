@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Mayank Ahuja
 **A passionate and aspiring Data Analyst from India**
 
-Email Me 👉 ✉️ **mayankahuja-pro@gmail.com** For Collaboration, Projects, or Anything Else. 😊😊
+Email Me 👉 ✉️ **mayankahuja785@gmail.com** For Collaboration, Projects, or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Building end-to-end data analytics projects
 - 🌱 **I’m currently learning:** Advanced machine learning models for forecasting
